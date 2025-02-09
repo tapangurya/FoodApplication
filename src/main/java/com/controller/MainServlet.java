@@ -73,7 +73,7 @@ public class MainServlet extends HttpServlet {
 		long mob =customerObject.getMob();
 		
 		String from = "guryatapan@gmail.com"; // Replace with your email
-		String password = "boyjlonkupahuwxa"; // Replace with your email password
+		String password = "xxxxxxxx"; // Replace with your email password
 
 		Properties props = new Properties();
 		props.put("mail.smtp.auth", "true");
