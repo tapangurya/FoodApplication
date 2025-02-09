@@ -72,7 +72,7 @@ public class MainServlet extends HttpServlet {
 		String name = customerObject.getName();
 		long mob =customerObject.getMob();
 		
-		String from = "guryatapan@gmail.com"; // Replace with your email
+		String from = "xxxxxxxxxxxxxxxxx"; // Replace with your email
 		String password = "xxxxxxxx"; // Replace with your email password
 
 		Properties props = new Properties();
